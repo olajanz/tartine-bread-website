@@ -1,6 +1,20 @@
 :root {
-    background-color:#d1d8e0;
-    font-size: 16px;
+   font-size: 16px;
+
+    background: linear-gradient(-45deg, #f8faf9, #a7d5bd, #1ed06b, #9a607a, #734e83);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+}
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
 }
 a { 
     color: #795989; 
