@@ -37,4 +37,4 @@ STEP 3
 
  Make the leaven: The night before baking, discard all but 1 tablespoon of the mature starter. Mix the remaining starter with 200 grams of warm water and stir with your hand to disperse. Add 200 grams of the white-wheat flour mix and combine well. Cover with a towel and let rest at room temperature for 12 hours or until aerated and puffed in appearance. To test for readiness, drop a tablespoon of leaven into a bowl of room-temperature water; if it floats it’s ready to use. If it doesn’t, allow more time to ferment.
 
-__subscribe to learn more!__
+__visit the website to check the original recipe__
